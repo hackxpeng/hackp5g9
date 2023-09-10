@@ -1,4 +1,4 @@
-# hackp5g9
+# LET'S HACK NOW!
 本项目可以帮助小鹏P5和小鹏G9开启adb和网络adb
 
 # 开启adb步骤
