@@ -1,7 +1,23 @@
-# HAPPY NEW YEAR!
-本项目可以帮助历史版本的小鹏P5和小鹏G9开启adb和网络adb
+## 最新教程（适用于所有使用天玑风味系统及XMART OS系统的车辆） https://t.me/hackxpeng
+
+- 首先，你需要PY一下售后门店，请求进入维保模式
+
+- 进入维保模式后，进入常用指令界面，在第一个输入框输入以下代码：
+
+  `ro.product.model;am start com.xiaopeng.devtools/.view.usersettings.UserSettingsActivity`
+
+  即可打开调试和网络调试（一般是前两个选项），请注意所有的符号请使用英文输入
+
+- 其余步骤请参考历史教程即可
+
+
+
+
+
+# 以下是历史教程，最新版本天玑风味系统已修复
 
 # 重要提示
+
 ## 如果你对第三方软件的需求高于OTA需求，请关闭OTA功能，P5和G9的下一个版本大概率或已经启用了更高级的加密方式，无法获取解锁码，需要等待其他方式破解
 
 ## 讨论群：https://t.me/hackxpeng
@@ -49,10 +65,6 @@
 * 将所有文件放入c盘windows目录下的system32和syswow64 注意两个都要放
 
 
-# 致小鹏汽车：以下是关闭获取解锁码api的步骤
-* 暂无
+# 致何小鹏：NMSL
 
-  
-
-
-![image](https://ghproxy.com/https://raw.githubusercontent.com/hackxpeng/hackp5g9/main/699e33d95bb58866f263e99946870d0f.jpeg)
+![image](https://raw.githubusercontent.com/hackxpeng/hackp5g9/refs/heads/main/699e33d95bb58866f263e99946870d0f.jpeg)
